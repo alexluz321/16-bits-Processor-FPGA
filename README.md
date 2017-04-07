@@ -3,15 +3,15 @@ This is a project of a 16 bits processor for Field-Programmable Gate Array (FPGA
 
 The set of instructions is shown in the figure below.
 
-![](https://github.com/jaimedantas/16-bits-Processor-FPGA/blob/master/Instru%C3%A7%C3%B5es.png)
+![](https://github.com/alexluz321/16-bits-processor-FPGA/blob/master/Instru%C3%A7%C3%B5es.png)
 
 The machine cycle is shown in the figure below.
 
-![](https://github.com/jaimedantas/16-bits-Processor-FPGA/blob/master/fluxograma.png)
+![](https://github.com/alexluz321/16-bits-processor-FPGA/blob/master/fluxograma.png)
 
 The figure below shows the CPU of the processor running a program written in the "Programmer Counter(PC)" of a mathematical operation.
 
-![](https://github.com/jaimedantas/16-bits-Processor-FPGA/blob/master/cpu_print.png)
+![](https://github.com/alexluz321/16-bits-processor-FPGA/blob/master/cpu_print.png)
 
 If you wish to see more details about this project you can read the full report in PDF:
-[Report in Portuguese](https://github.com/jaimedantas/16-bits-Processor-FPGA/blob/master/sistemas_digitais.pdf)
+[Report in Portuguese](https://github.com/alexluz321/16-bits-processor-FPGA/blob/master/sistemas_digitais.pdf)
